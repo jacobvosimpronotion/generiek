@@ -38,3 +38,14 @@ th, td {
     hyphens: auto;
     padding: 0.25em;
 }
+
+/******************************************************************************/
+/*                                Logo style                                  */
+/******************************************************************************/
+
+.logo { 
+  float: none !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
